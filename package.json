@@ -19,7 +19,6 @@
     "url": "git+https://github.com/iirose-plugins/koishi-plugin-iirose-webui.git"
   },
   "homepage": "https://github.com/iirose-plugins/koishi-plugin-iirose-webui",
-  "scripts": {},
   "keywords": [
     "chatbot",
     "koishi",
