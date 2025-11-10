@@ -8,10 +8,10 @@ export default (ctx: Context) =>
 {
   ctx.page({
     name: 'IIROSE',
-    path: '/IIROSE',
+    path: '/iirose',
     desc: "",
     authority: 4,
-    icon: 'activity:IIROSE',
+    icon: 'activity:iirose',
     component: defineComponent({
       setup()
       {

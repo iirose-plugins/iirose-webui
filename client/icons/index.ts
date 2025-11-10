@@ -1,4 +1,4 @@
 import { icons } from '@koishijs/client';
-import IIROSE from './iirose.vue';
+import iirose from './iirose.vue';
 
-icons.register('activity:iirose', IIROSE);
+icons.register('activity:iirose', iirose);
