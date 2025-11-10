@@ -17,5 +17,8 @@
     "json.format.keepLines": true,
     "files.eol": "\n",
     "files.encoding": "utf8",
-    "editor.fontFamily": "Maple Mono NF CN Thin, Consolas, 'Courier New', monospace"
+    "editor.fontFamily": "Maple Mono NF CN Thin, Consolas, 'Courier New', monospace",
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
 }
